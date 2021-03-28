@@ -1,0 +1,31 @@
+{
+  "modelVersion" : "2.0",
+  "id" : "myApp",
+  "name" : "myApp",
+  "lastUpdate" : 1616893928698,
+  "rows" : [
+    [ ]
+  ],
+  "assets" : [
+    {
+      "id" : "9dde7e68-1aba-4fdb-af9a-4f4458803614",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "d12faf03-9644-4962-bd27-ea1d84bc3949",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "variables" : { },
+  "hasValidationError" : false,
+  "uuid" : "c16f22d4-b44d-47ea-aab8-309569b67af4",
+  "type" : "page",
+  "description" : "Page generated with Bonita UI designer"
+}
